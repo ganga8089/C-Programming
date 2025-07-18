@@ -1,3 +1,7 @@
+/*Author:Ganga
+Date:18/07/2025
+Program to add two polynomials*/
+
 #include <stdio.h>
 struct polynomial{
 int coeff;
